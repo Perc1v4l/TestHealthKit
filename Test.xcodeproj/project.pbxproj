@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		772B0FA22BFF8BBD00AE198A /* Screenshots.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 772B0FA12BFF8BBD00AE198A /* Screenshots.xcassets */; };
 		77CB5CCF2BFF41580088BDFF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77CB5CCE2BFF41580088BDFF /* AppDelegate.swift */; };
 		77CB5CD12BFF41580088BDFF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77CB5CD02BFF41580088BDFF /* SceneDelegate.swift */; };
 		77CB5CD32BFF41580088BDFF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77CB5CD22BFF41580088BDFF /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		772B0FA12BFF8BBD00AE198A /* Screenshots.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Screenshots.xcassets; sourceTree = "<group>"; };
 		77CB5CCB2BFF41580088BDFF /* Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Test.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		77CB5CCE2BFF41580088BDFF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		77CB5CD02BFF41580088BDFF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -68,6 +70,7 @@
 				77CB5CDC2BFF41590088BDFF /* LaunchScreen.storyboard */,
 				77CB5CDF2BFF41590088BDFF /* Info.plist */,
 				77CB5CD72BFF41580088BDFF /* Test.xcdatamodeld */,
+				772B0FA12BFF8BBD00AE198A /* Screenshots.xcassets */,
 			);
 			path = Test;
 			sourceTree = "<group>";
@@ -131,6 +134,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				77CB5CDE2BFF41590088BDFF /* LaunchScreen.storyboard in Resources */,
+				772B0FA22BFF8BBD00AE198A /* Screenshots.xcassets in Resources */,
 				77CB5CDB2BFF41590088BDFF /* Assets.xcassets in Resources */,
 				77CB5CD62BFF41580088BDFF /* Main.storyboard in Resources */,
 			);
