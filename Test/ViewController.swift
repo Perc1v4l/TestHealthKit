@@ -144,7 +144,7 @@ class ViewController: UIViewController {
                             print(weightLocalizedString)
 
                             let weightInKilograms = kilograms
-                            let heightInMeters: Double = 1.80
+                            let heightInMeters: Double = 1.74
                             print(weightInKilograms)
                             print(heightInMeters)
                             let bmi  = weightInKilograms / (heightInMeters * heightInMeters)
